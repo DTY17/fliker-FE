@@ -1,6 +1,6 @@
 # Flicker
 
-A small movie/series streaming front end with a public site and a separate admin dashboard, backed by a Spring Boot REST API. Posters and video files are hosted on Cloudinary.
+A small anime streaming front end with a public site and a separate admin dashboard, backed by a Spring Boot REST API. Posters and video files are hosted on Cloudinary.
 
 ## Project structure
 
